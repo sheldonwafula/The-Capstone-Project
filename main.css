@@ -1,3 +1,14 @@
+ul li{
+    list-style: none;
+}
+.items-list li a{
+    text-decoration: none;
+}
+.navs li a{
+    
+    text-decoration: none;
+    color: #db5642;
+}
 .about{
     display: flex;
     flex-direction: column;
